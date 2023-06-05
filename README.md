@@ -1,1 +1,1 @@
-# LP2
+To analyze impact of heart rate distribution during training on marathon performance. First phase, the records distributed in different zone, The zone category decided by using heart rate values (min and max). The performance of runner was to be calculated based on the take to finish and total distance they covered as well as considering the parameters like heart rate, speed of respective player. Then, according to the performance level, individuals are to be categorized into fast, average and slow performer.
